@@ -15,12 +15,11 @@ I am currently working on making a mobile application for Cervical Cancer diagno
  
 I interned at [Institute of Genomics and Integrative Biology](https://www.igib.res.in/) after my second year, a research centre of [Council of Scientific and Industrial Research](https://www.csir.res.in/), where I worked on a implementing an entropy based distance metric between indiviuals for their phenotypic profiles. I also worked on zebrafish videos to create a bounding box for their heart and plot variations to estimate thier heartbeat.
 
-
 ---
 
 ## Research Interest
 
-My research interests primarily lie in the application of machine learning and artificial intelligence in healthcare. 
+My research interests primarily lie in the application of machine learning and artificial intelligence in healthcare. Resume and Projects in detail to be added soon!
 
 ---
 
