@@ -7,7 +7,7 @@ layout: default
  <img class="profile-picture" src="dp.jpg" >
 </p>
 
-Hi! I am Ahsan. I am a third year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing for Healthcare.
+Hi! I am Ahsan. I am a third year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing and Computer Vision for Healthcare.
 
 I most recently got selected for the Future Research Talent Award - $6000AUD by Australian National University to work at [Clear Vision Research Group](https://www.clearvisionresearch.com/) under [Dr. Riccardo Natoli](https://jcsmr.anu.edu.au/people/academics/dr-riccardo-natoli) 
 
