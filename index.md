@@ -28,6 +28,7 @@ My research interests primarily lie in the application of machine learning and a
 Post | Organization | Duration
 --- | --- | ---
 Core Team Member | Student Faculty Council | August 2019 - Present
+Member | Wall Street Club | September 2017 - Present
 
 ---
 You can find the full source code of this site on [GitHub](https://github.com/Megh-Thakkar/Megh-Thakkar.github.io)
