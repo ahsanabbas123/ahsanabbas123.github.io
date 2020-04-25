@@ -28,8 +28,7 @@ My research interests primarily lie in the application of machine learning and a
 
 Post | Organization | Duration
 --- | --- | ---
-Core Member | [Committe of Students for Academic Activities](https://www.linkedin.com/in/costaa-apogee-bits-pilani-1b2267187/) | April 2018 - March 2019
-Member | Student Faculty Council | August 2017 - December 2017
+Core Team Member | Student Faculty Council | August 2019 - Present
 
 ---
 You can find the full source code of this site on [GitHub](https://github.com/Megh-Thakkar/Megh-Thakkar.github.io)
