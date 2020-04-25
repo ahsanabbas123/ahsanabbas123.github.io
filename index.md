@@ -13,7 +13,7 @@ I most recently got the Future Research Talent Award of $6000AUD by Australian N
 
 I am currently working on making a mobile application for Cervical Cancer diagnosis and low-cost Colposcopic examinations at the Machine Vision Laboratory, CEERI-Pilani under [Dr. J L Raheja](https://www.ceeri.res.in/profiles/j-l-raheja/). 
  
-I interned at [Institute of Genomics and Integrative Biology](https://www.igib.res.in/) after my second year, a research centre of [Council of Scientific and Industrial Research](https://www.csir.res.in/), where I worked on a implementing a entropy based distance metric between indiviuals according to their phenotypic profiles. I also worked on zebrafish videos to create a bounding box for their heart and plot variations to estimate thier heartbeat.
+I interned at [Institute of Genomics and Integrative Biology](https://www.igib.res.in/) after my second year, a research centre of [Council of Scientific and Industrial Research](https://www.csir.res.in/), where I worked on a implementing an entropy based distance metric between indiviuals for their phenotypic profiles. I also worked on zebrafish videos to create a bounding box for their heart and plot variations to estimate thier heartbeat.
 
 
 ---
