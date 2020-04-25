@@ -3,8 +3,9 @@ layout: default
 ---
 
 ## About Me
-
-<img class="profile-picture" src="dp.jpg">
+<p align = "center">
+ <img class="profile-picture" src="dp.jpg" >
+</p>
 
 Hi! I am Ahsan. I am a third year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing for Healthcare.
 
