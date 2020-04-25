@@ -12,19 +12,6 @@ layout: default
 * Microprocessors & Interfacing
 * Discrete Structures for Computer Science
 * Data Structures and Algorithms
-* Computer Architecture
-* Operating Systems
-* Theory of Computation
-* Principles of Programming Languages
-* Compiler Construction
-* Computer Networks
-* Design and Analysis of Algorithms
-
-### Discipline Electives
-
-* Neural Networks & Fuzzy Logic
-* Information Retrieval
-* Data Mining
 
 ### Mathematics
 
@@ -33,9 +20,20 @@ layout: default
 * Mathematics III - Differential Equations
 * Probability and Statistics
 
+### Economics
+
+* Econometrics 
+* Macroeconomics
+* Microeconomics
+* Mathematical and Statistical Methods
+* Economics of Growth and Developement
+* Public finance and policy
+
+
 ### Other Courses
 
 * **Linguistics**
+* Symbolic Logic
 * Principles of Economics
 * Creative Thinking
 * Business Communication
