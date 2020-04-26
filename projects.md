@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Projects 
+## Projects [under construction please refer to github repos]
 ---
 
 ### **Cervical Cancer Classificatiom; | CEERI, Pilani**
@@ -54,12 +54,14 @@ Add info
 *September 2019*
 
 Add info
+
 ---
 
 ### **Neural Machine Translation by Jointly Learning to Align and Translate**
 *April 2020*
 
 Add info
+
 ---
 
 
