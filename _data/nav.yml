@@ -10,8 +10,8 @@
 - name: "Projects"
   link: "projects"
 
-- name: "Résumé/CV"
-  link: "cv"
+# - name: "Résumé/CV"
+#   link: "cv"
 
 - name: "Home"
   link: "https://ahsanabbas123.github.io"
