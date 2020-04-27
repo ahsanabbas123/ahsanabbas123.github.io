@@ -17,13 +17,7 @@ I am currently working on making a mobile application for Cervical Cancer diagno
 
 *April 2020*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ieLHIoP1GYBbHtdAyiIwcuSwy2TtAk5A)
-
 PyTorch implementation of the Transformer model in "[Attention is All You Need](https://arxiv.org/abs/1706.03762)" (Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, arxiv, 2017). This model is based solely on attention mechanisms and introduces Multi-Head Attention. The encoder and decoder are made of multiple layers, with each layer consisting of Multi-Head Attention and Positionwise Feedforward sublayers. This model is currently used in many state-of-the-art sequence-to-sequence and transfer learning tasks.  
-
-<p align="center">
-<img src="http://imgur.com/1krF2R6.png" width="100">
-</p>  
 
 The model reaches a bleu score of 35.44 which is comparable to the state of the art performances of recent models such as 'Multi-Agent Dual Learning' which reaches ~40 as reported on this [leaderboard](https://paperswithcode.com/sota/machine-translation-on-wmt2016-english-german).
 
@@ -33,9 +27,7 @@ The model reaches a bleu score of 35.44 which is comparable to the state of the 
 
 *April 2020*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z52fsTHv3VXPXkYKn_efQYX72U1cOs19)
-
-llievates the information compression problem by allowing the decoder to "look back" at the input sentence by creating context vectors that are weighted sums of the encoder hidden states. The weights for this weighted sum are calculated via an attention mechanism, where the decoder learns to pay attention to the most relevant words in the input sentence.     
+Allievates the information compression problem by allowing the decoder to "look back" at the input sentence by creating context vectors that are weighted sums of the encoder hidden states. The weights for this weighted sum are calculated via an attention mechanism, where the decoder learns to pay attention to the most relevant words in the input sentence.     
 Based on the paper [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) on English to French [translation pairs](https://download.pytorch.org/tutorial/data.zip).
 
 ---
