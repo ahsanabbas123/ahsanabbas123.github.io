@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Projects [under construction please refer to github repos]
+## Projects
 ---
 
 ### **Cervical Cancer Classification | CEERI, Pilani**
