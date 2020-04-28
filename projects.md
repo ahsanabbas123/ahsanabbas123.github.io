@@ -63,11 +63,4 @@ Based on the implementation of [Bettencourt & Ribeiro 2008](https://journals.plo
 
 ---
 
-### **Intl Proj | Mentor: [TBA](TBA)**
-
-*September 2019*
-
-Add info
-
----
 
