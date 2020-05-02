@@ -20,18 +20,7 @@ I interned at [Institute of Genomics and Integrative Biology](https://www.igib.r
 
 ## Research Interest
 
-My research interests primarily lie in the application of machine learning and artificial intelligence in healthcare. Resume and Projects in detail to be added soon!
+My research interests primarily lie in the application of machine learning and artificial intelligence in healthcare. 
 
 ---
 
-## Positions of Responsibility
-
-Post | Organization | Duration
---- | --- | ---
-Core Team Member | Student Faculty Council | August 2019 - Present
-Member | Wall Street Club | September 2017 - Present
-
----
-You can find the full source code of this site on [GitHub](https://github.com/Megh-Thakkar/Megh-Thakkar.github.io)
-
----
