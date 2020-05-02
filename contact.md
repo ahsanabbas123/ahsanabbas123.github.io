@@ -3,10 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [f20170507@pilani.bits-pilani.ac.in](mailto:f20160507@pilani.bits-pilani.ac.in)  
-         [saa5819@gmail.com](mailto:saa5819@gmail.com)
-
-* Phone: [+91-8527335844](tel:+91-8527335844)
+* Email: f20170507 <at> pilani.bits-pilani.ac.in 
+         saa5819 <at> gmail.com
 
 ---
 
