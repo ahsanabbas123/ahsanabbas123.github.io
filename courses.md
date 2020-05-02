@@ -32,17 +32,9 @@ layout: default
 
 ### Other Courses
 
-* **Linguistics**
+* Linguistics
 * Symbolic Logic
-* Principles of Economics
-* Creative Thinking
-* Business Communication
 * General Biology
-* General Chemistry
-* Workshop Practice
-* Mechanics, Oscillations & Waves
 * Technical Report Writing
-* Electrical Sciences
-* Engineering Graphics
  
  ---
