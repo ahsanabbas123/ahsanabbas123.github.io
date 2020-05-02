@@ -3,7 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: f20170507 -at- pilani.bits-pilani.ac.in  
+* Email: 
+
+         f20170507 -at- pilani.bits-pilani.ac.in  
 
          saa5819 -at- gmail.com
 
