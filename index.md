@@ -9,7 +9,7 @@ layout: default
 
 Hi! I am Ahsan. I am a third year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing and Machine Reading Comprehension tasks. I also like to solve Competitive Programming questions on Leetcode.
 
-Currently, I am interning under Dr. Goran Nenadic at The University of Manchester, working on Natural Text Generation and reasoning skills of MRC models for better generalizability.
+Currently, I am interning under [Dr. Goran Nenadic](https://www.research.manchester.ac.uk/portal/gnenadic.html) at The University of Manchester, working on Natural Text Generation and reasoning skills of MRC models for better generalizability.
 
 I most recently got the Future Research Talent Award of $6000AUD by Australian National University to work at the [Clear Vision Research Group](https://www.clearvisionresearch.com/) under [Dr. Riccardo Natoli](https://jcsmr.anu.edu.au/people/academics/dr-riccardo-natoli) 
 (Postponed due to COVID19)
@@ -22,7 +22,12 @@ I interned at [Institute of Genomics and Integrative Biology](https://www.igib.r
 
 ## Research Interest
 
-My research interests primarily lie in the application of machine learning and artificial intelligence in healthcare. 
+My research interests primarily lie in the application of AI in healthcare. 
 
 ---
 
+## Recommendations Books/Tutorials/Articles/Podcasts
+
+To be added
+
+---
