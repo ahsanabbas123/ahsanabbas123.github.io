@@ -26,10 +26,9 @@ My research interests primarily lie in the application of AI in healthcare.
 
 ---
 
-## Recommendations 
+### Recommendations 
 
 (Books/Tutorials/Articles/Podcasts)
-
-To be added
+TBA
 
 ---
