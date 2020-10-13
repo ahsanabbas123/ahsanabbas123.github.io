@@ -7,7 +7,7 @@ layout: default
  <img class="profile-picture" src="dp.jpg" >
 </p>
 
-Hi! I am Ahsan. I am a fourth year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I will be joining Microsoft as a Software Engineering Intern in the summer of 2021.  
+Hi! I am Ahsan. I am a 4th year student at BITS Pilani, majoring in Computer Science. I will be joining Microsoft as a Software Engineering Intern in the summer of 2021.  
 
 I am broadly interested in Natural Language Processing and Machine Reading Comprehension tasks. I also like to solve Competitive Programming questions.
 
