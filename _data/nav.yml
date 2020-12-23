@@ -1,6 +1,9 @@
 - name: "Contact"
   link: "contact"
 
+- name: "Recommendations"
+- link: "recommendations"
+
 - name: "Courses"
   link: "courses"
   
