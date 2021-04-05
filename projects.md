@@ -60,6 +60,8 @@ Based on the implementation of [Bettencourt & Ribeiro 2008](https://journals.plo
 
 ### **Cervical Cancer Classification | CEERI, Pilani**
 
-I am currently working on making a mobile application for Cervical Cancer diagnosis and low-cost Colposcopic examinations at the Machine Vision Laboratory, CEERI-Pilani under [Dr. J L Raheja](https://www.ceeri.res.in/profiles/j-l-raheja/). 
+Worked on making a mobile application for Cervical Cancer diagnosis and low-cost Colposcopic examinations at the Machine Vision Laboratory, CEERI-Pilani under [Dr. J L Raheja](https://www.ceeri.res.in/profiles/j-l-raheja/). 
 
 ---
+
+
