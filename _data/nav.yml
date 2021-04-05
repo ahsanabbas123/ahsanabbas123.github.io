@@ -1,8 +1,8 @@
-- name: "Contact"
-  link: "contact"
-
 - name: "Recommendations"
   link: "recommendations"
+
+- name: "Contact"
+  link: "contact"
 
 - name: "Courses"
   link: "courses"
@@ -13,8 +13,8 @@
 - name: "Projects"
   link: "projects"
 
-# - name: "Résumé/CV"
-#   link: "cv"
+- name: "Résumé"
+  link: "resume"
 
 - name: "Home"
   link: "https://ahsanabbas123.github.io"
