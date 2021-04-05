@@ -4,12 +4,14 @@ layout: default
 
 ### Computer Science
 
-* Computer Programming
+* Operating Systems
+* Compiler Construction
+* Design and Analysis of Algorithms
+* Machine Learning
+* Information Retrieval
 * Object Oriented Programming
 * Logic in Computer Science
 * Database Systems
-* Digital Design
-* Microprocessors & Interfacing
 * Discrete Structures for Computer Science
 * Data Structures and Algorithms
 
@@ -28,7 +30,6 @@ layout: default
 * Mathematical and Statistical Methods
 * Economics of Growth and Developement
 * Public finance and policy
-
 
 ### Other Courses
 
